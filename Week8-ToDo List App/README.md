@@ -8,7 +8,7 @@ This To-Do List App is a straightforward tool designed to help you manage your t
 
 ---
 
-https://github.com/daniel-caleb/PLP-Web-Dev/blob/master/Week8-ToDo%20List%20App/images/Recording%20ToDoList%20App.mp4
+![Demo Video](https://github.com/daniel-caleb/PLP-Web-Dev/blob/master/Week8-ToDo%20List%20App/images/Recording%20ToDoList%20App.mp4)
 
 ---
 
