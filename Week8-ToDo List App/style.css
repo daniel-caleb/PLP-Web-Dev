@@ -49,3 +49,86 @@ body {
     font-size: 1.5rem;
 }
 
+@media only screen and (min-width:500px){
+    .heading__title{
+        font-size: 2rem;
+    }
+}
+
+.heading__img{
+    width: 24%;
+}
+
+.form__label{
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.form__input{
+    box-sizing: border-box;
+    background-color: transparent;
+    padding: 0.7rem;
+    border-bottom-right-radius: 15px 3px;
+    border-bottom-left-radius: 3px 15px;
+    border: solid 3px transparent;
+    border-bottom: dashed 3px #ea95e0;
+    font-family: "Gochi Hand", cursive;
+    font-size: 1rem;
+    color: rgba(63,62,65,0.7);
+    width: 70%;
+    margin-bottom: 20px;
+}
+
+.form__input:focus{
+    outline: none;
+    border: solid 3px #ea95e0;
+}
+
+
+@media only screen and (min-width:500px){
+    .form__input{
+        width: 60%;
+    }
+}
+
+.button {
+    padding: 0;
+    border: none;
+    transform: rotate(4deg);
+    transform-origin: center;
+    font-family: "Gochi Hand", cursive;
+    text-decoration: none;
+    padding-bottom: 3px;
+    border-radius: 5px;
+    box-shadow: 0 2px 0 #494a4b;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    background-image: url("");
+    background-color: rgba(0,255,196,0.7);
+}
+
+.button span {
+    background: #f1f5f8;
+    display: block;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    border: 2px solid #494a4b;
+}
+
+.button:active, .button:focus {
+    transform: translateY(4px);
+    padding-bottom: 0px;
+    outline: 0;
+}
+
+.toDoList{
+    text-align: left;
+}
+
+.toDoList li {
+    position: relative;
+    padding: 0.5rem;
+}
+
+.toDoList li:hover {
+    text-decoration: line-through wavy #24bffb;
+}
