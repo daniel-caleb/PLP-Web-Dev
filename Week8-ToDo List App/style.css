@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
 body {
-    background-color: #a39bd2;
+    background-color: #2e2b2e;
     min-height: 70vh;
     padding: 1rem;
     box-sizing: border-box;
@@ -45,7 +45,7 @@ body {
     transform: rotate(2deg);
     padding: 0.2rem 1.2rem;
     border-radius: 20% 5%20%5%/5% 20% 25% 20%;
-    background-color: rgba(0,255,196,0.7);
+    background-color: rgb(38,179,196);
     font-size: 1.5rem;
 }
 
@@ -71,7 +71,7 @@ body {
     border-bottom-right-radius: 15px 3px;
     border-bottom-left-radius: 3px 15px;
     border: solid 3px transparent;
-    border-bottom: dashed 3px #ea95e0;
+    border-bottom: dashed 3px rgb(38,179,196);
     font-family: "Gochi Hand", cursive;
     font-size: 1rem;
     color: rgba(63,62,65,0.7);
@@ -81,7 +81,7 @@ body {
 
 .form__input:focus{
     outline: none;
-    border: solid 3px #ea95e0;
+    border: solid 3px rgb(38,179,196);
 }
 
 
@@ -103,7 +103,7 @@ body {
     box-shadow: 0 2px 0 #494a4b;
     transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
     background-image: url("");
-    background-color: rgba(0,255,196,0.7);
+    background-color: rgb(38,179,196);
 }
 
 .button span {
