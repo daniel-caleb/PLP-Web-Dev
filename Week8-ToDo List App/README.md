@@ -7,8 +7,10 @@
 This To-Do List App is a straightforward tool designed to help you manage your tasks effortlessly. With minimalistic features, it focuses on the core functionalities of adding tasks, viewing them, and deleting them as needed.
 
 ---
+<div id="demo">
 
 ![Demo Video](https://github.com/daniel-caleb/PLP-Web-Dev/blob/master/Week8-ToDo%20List%20App/images/Recording%20ToDoList%20App.mp4)
+</div>
 
 ---
 
