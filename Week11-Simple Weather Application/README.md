@@ -51,3 +51,8 @@ The project is divided into the following sections:
 - [JavaScript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 
 This project provides a solid foundation for building interactive web applications. By successfully completing it, you'll gain valuable experience in web development and API integration, making you a step closer to creating more complex and exciting web projects!
+
+## PREVIEW!
+![Screenshot 2024-05-09 222733](https://github.com/daniel-caleb/PLP-Web-Dev/assets/95380895/de084eca-ab1d-418b-84a8-ef9bed6f0918)
+
+
