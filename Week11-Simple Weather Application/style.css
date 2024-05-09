@@ -1,0 +1,70 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url('background-image.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 320px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.66);
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #333;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+input[type="text"] {
+    width: calc(100% - 24px);
+    padding: 14px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 18px;
+    outline: none;
+}
+
+button {
+    background-color: #00aeff;
+    color: black;
+    border: none;
+    padding: 14px 24px;
+    border-radius: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #033750;
+    color: whitesmoke;
+}
+
+.weather-info {
+    margin-top: 30px;
+}
+
+#temperature {
+    font-size: 36px;
+    font-weight: bold;
+    color: #333;
+}
+
+#description {
+    margin-top: 10px;
+    font-size: 22px;
+    color: #666;
+}
+
